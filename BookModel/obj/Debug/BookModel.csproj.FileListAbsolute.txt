@@ -1,0 +1,12 @@
+C:\Users\localadmin\Documents\BookStore\BookStore\BookModel\bin\Debug\BookModel.dll
+C:\Users\localadmin\Documents\BookStore\BookStore\BookModel\bin\Debug\BookModel.pdb
+C:\Users\localadmin\Documents\BookStore\BookStore\BookModel\obj\Debug\BookModel.csprojAssemblyReference.cache
+C:\Users\localadmin\Documents\BookStore\BookStore\BookModel\obj\Debug\BookModel.csproj.CoreCompileInputs.cache
+C:\Users\localadmin\Documents\BookStore\BookStore\BookModel\obj\Debug\BookModel.dll
+C:\Users\localadmin\Documents\BookStore\BookStore\BookModel\obj\Debug\BookModel.pdb
+F:\fairgo\BookStore\BookStore\BookModel\bin\Debug\BookModel.dll
+F:\fairgo\BookStore\BookStore\BookModel\bin\Debug\BookModel.pdb
+F:\fairgo\BookStore\BookStore\BookModel\obj\Debug\BookModel.csprojAssemblyReference.cache
+F:\fairgo\BookStore\BookStore\BookModel\obj\Debug\BookModel.csproj.CoreCompileInputs.cache
+F:\fairgo\BookStore\BookStore\BookModel\obj\Debug\BookModel.dll
+F:\fairgo\BookStore\BookStore\BookModel\obj\Debug\BookModel.pdb
